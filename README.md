@@ -14,6 +14,8 @@ Our project is an attempt to predict the stock market using not only the stock d
 
 **Datasets**: [Yahoo stock prediction by news](https://www.kaggle.com/datasets/deepakjoshi2k/yahoo-stock-prediction-by-news) 
 
+**Exploratory Data Analysis**: 
+
 **Models**: 
 
 We used [`Natural Language Toolkit`](https://www.nltk.org) for sentiment analysis of news and applied `Long Short-Term Memory (LSTM)` neural network for the time series analysis.
