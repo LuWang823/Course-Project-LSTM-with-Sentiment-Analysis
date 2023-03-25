@@ -27,6 +27,13 @@ The main advantage of LSTM over traditional `recurrent neural networks (RNNs)` i
 
 We compared models with and without sentiment analysis.
 
+**Results**:
+
+Results could vary each time for the code running. Generally, our results were:
+
+- **For baseline: LSTM without sentiment analysis:** Train Loss = 0.0011, Test Loss = 0.0067.
+- **LSTM with sentiment analysis:** Train Loss = 0.0008, Test Loss = 0.005.
+
 **Target Audience**:
 
 The target audience for stock market prediction can include investors that are interested in the stock market, traders, financial analysts, Data science students/researchers, and the general public. 
@@ -37,6 +44,8 @@ The target audience for stock market prediction can include investors that are i
 
 
 **Challenges and Limitations**:
+
+Although the results gained high accurate predictions, the contributions from sentiment analysis were not much. The challenges and limitations we encountered were:
 
 - **The source of data is insufficient.** Other sources of news could also influence the stock price.
 - **The time spans of analysis remain to be further investigated.** For LSTM model, we used the previous day to predict next day’s stock price. However, the time spans could be extended to weeks, months, or even years. Future work could conduct more experiments with different settings. 
