@@ -14,7 +14,7 @@ Our project is an attempt to predict the stock market using not only the stock d
 
 **Datasets**: [Yahoo stock prediction by news](https://www.kaggle.com/datasets/deepakjoshi2k/yahoo-stock-prediction-by-news) 
 
-**Exploratory Data Analysis**: We reported the descriptive analysis of 15975 rows \*12 attributes including 
+**Exploratory Data Analysis**: We conducted descriptive analysis of 15975 rows \*12 attributes including mean, std, min, max values, graphs of distributions and changes over time (from July 2012 to Jan 2020). 
 
 **Models**: 
 
