@@ -2,7 +2,7 @@
 
 **DSCI 521 Data Analysis and Interpretation, Team Project Presentation**
 
-**Winter Term 2023, Instructor: Dr.Hu**
+**Winter Term 2023, Instructor: Dr. Hu**
 
 **Group Members: Lu, Anamika, Srinivas, Kenneth, Divyanshu**
 
