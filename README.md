@@ -22,6 +22,7 @@ NLTK is a leading language processing toolkit of Python. It provides easy-to-use
 
 LSTM (Long Short-Term Memory) is a type of neural network architecture that is commonly used in deep learning for tasks that involve sequential data, such as speech recognition, natural language processing, and time-series prediction. It was introduced by Hochreiter and Schmidhuber in 1997.
 The main advantage of LSTM over traditional `recurrent neural networks (RNNs)` is its ability to handle the vanishing gradient problem, which occurs when the gradients become too small during training and the model is unable to learn from the data. LSTMs use a gating mechanism to selectively forget or remember information from the previous time step, which allows them to maintain long-term dependencies in the data and avoid the vanishing gradient problem. This is realized through the three gates of each cell: an input gate, a forget gate, and an output gate. The input gate controls the amount of new information that is added to the cell, while the forget gate controls the amount of old information that is removed from the cell. The output gate controls the amount of information that is passed to the next time step. [`More details of RNN and LSTM`](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+
 We compared models with and without sentiment analysis.
 
 **Target Audience**:
