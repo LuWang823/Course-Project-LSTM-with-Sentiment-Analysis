@@ -28,7 +28,10 @@ The target audience for stock market prediction can include investors that are i
 - **Financial analysts** could examine and evaluate consumer behaviors towards the company products, strategic initiatives, and so on. 
 - **Data science students and researchers** could also be a target audience, as they might gain a deeper understanding of using machine learning models to predict the stock market. They can identify and study the trading signals and catches the patterns of the stock market's movement by analyzing quantifiable data from actions on the stock market, such as stock prices, historical returns, transaction volume and consumer behaviors. 
 - **The general public** is similar to investors, but for people who are not familiar with the stock market might use this analysis to learn about how news articles can impact the performance of a company’s stock.
+
+
 **Challenges and Limitations**:
+
 - **The source of data is insufficient.** Other sources of news could also influence the stock price.
 - **The time spans of analysis remain to be further investigated.** For LSTM model, we used the previous day to predict next day’s stock price. However, the time spans could be extended to weeks, months, or even years. Future work could conduct more experiments with different settings. 
 - **The impact factors of stock prices are complex.** Other factors such as economic indicators, company financials, and market sentiment could also play a role in stock price movements. 
