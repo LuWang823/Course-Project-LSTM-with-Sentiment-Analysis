@@ -31,7 +31,7 @@ We compared models with and without sentiment analysis.
 
 Results could vary each time for the code running. Generally, our results were:
 
-- **For baseline: LSTM without sentiment analysis:** Train Loss = 0.0011, Test Loss = 0.0067.
+- **For baseline, LSTM without sentiment analysis:** Train Loss = 0.0011, Test Loss = 0.0067.
 - **LSTM with sentiment analysis:** Train Loss = 0.0008, Test Loss = 0.005.
 
 **Target Audience**:
