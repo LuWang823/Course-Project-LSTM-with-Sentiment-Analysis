@@ -1,4 +1,4 @@
-#Yahoo Stock Prediction through Time Series and Sentiment Analyses of News: Apple Inc. 
+# Yahoo Stock Prediction through Time Series and Sentiment Analyses of News: Apple Inc. 
 
 **DSCI 521 Data Analysis and Interpretation, Team Project Presentation**
 Winter Term 2023, Instructor: Dr. Xiaohua Tony Hu
